@@ -1,0 +1,5 @@
+00 00 * * * sh /root/kouzi_crawler/start.sh
+00 06 * * * sh /root/kouzi_crawler/start.sh
+00 12 * * * sh /root/kouzi_crawler/start.sh
+00 18 * * * sh /root/kouzi_crawler/start.sh
+30 */1 * * * sh /root/kouzi_crawler/start.sh
